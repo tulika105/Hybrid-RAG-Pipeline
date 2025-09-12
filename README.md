@@ -36,3 +36,6 @@ This repo demonstrates a Retrieval-Augmented Generation (RAG) pipeline that comb
 ## Output Example
 
 Given a query like "I want to eat better to prevent heart disease. What should I avoid?", the pipeline provides a clear, actionable table and tips on foods and habits to avoid, along with guidance for making heart-healthy changes.
+
+<img width="1757" height="521" alt="Screenshot 2025-09-12 175445" src="https://github.com/user-attachments/assets/a5e57d68-c493-4a51-a9d5-96cfe2c19385" />
+
