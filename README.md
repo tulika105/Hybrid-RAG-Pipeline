@@ -1,5 +1,7 @@
 # Hybrid RAG (Dense + Sparse) Pipeline for Heart Disease Prevention Knowledge
 
+<img width="2227" height="1137" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/0588385c-f473-43a4-9b5f-75c03e7506c7" />
+
 ## Overview
 
 This repo demonstrates a Retrieval-Augmented Generation (RAG) pipeline that combines both dense (semantic) and sparse (keyword-based) search to answer questions about healthy eating for heart disease prevention. The pipeline is designed to ingest health-related textual data and generate informative, evidence-based answers using large language models (LLMs).
