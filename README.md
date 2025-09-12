@@ -13,9 +13,9 @@ This repo demonstrates a Retrieval-Augmented Generation (RAG) pipeline that comb
 ## Models and Vector DB Used
 
 - **Dense (Semantic) Model:** The pipeline uses a sentence embedding model based on the transformer architecture (e.g., `sentence-transformers/all-MiniLM-L6-v2`). These models are designed to understand the semantic relationships between sentences, enabling effective vector-based search.
-- **Sparse (Keyword) Model:** For keyword-based matching, the pipeline relies on TF-IDF, a classic statistical text representation model that highlights the importance of terms within documents relative to a corpus.
-- **Large Language Model (LLM):** The answer generation step utilizes a generative language model hosted on the Groq platform, such as gpt-oss-20b. These models synthesize coherent, context-aware answers based on the retrieved content.
-- **Vector Database:** Chroma DB is used to store and manage the dense embeddings. It enables efficient similarity search and retrieval for semantic queries.
+- **Sparse (Keyword) Model:** For keyword-based matching, the pipeline relies on (`TF-IDF`), a classic statistical text representation model that highlights the importance of terms within documents relative to a corpus.
+- **Large Language Model (LLM):** The answer generation step utilizes a generative language model hosted on the Groq platform (e.g., `gpt/gpt-oss-20b`). These models synthesize coherent, context-aware answers based on the retrieved content.
+- **Vector Database:** `Chroma DB` is used to store and manage the dense embeddings. It enables efficient similarity search and retrieval for semantic queries.
 
 ## Pipeline Steps
 
