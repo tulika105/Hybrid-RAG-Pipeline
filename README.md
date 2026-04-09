@@ -1,6 +1,6 @@
 # Hybrid RAG (Dense + Sparse) Pipeline for Heart Disease Prevention Knowledge
 
-<img width="2227" height="1137" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/0588385c-f473-43a4-9b5f-75c03e7506c7" />
+<img width="1760" height="457" alt="Screenshot 2026-04-10 001709" src="https://github.com/user-attachments/assets/e0d635ce-945a-4b88-824e-2e3e3631200e" />
 
 ## Overview
 
